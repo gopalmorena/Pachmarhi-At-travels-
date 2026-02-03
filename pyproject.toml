@@ -1,0 +1,10 @@
+[project]
+name = "billing-system"
+version = "0.1.0"
+description = "A simple billing system for managing customers, invoices, and payments."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
